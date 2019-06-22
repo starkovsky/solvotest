@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Russia",
+    "poplation": 14678195,
+    "capital": "Moscow",
+    "location": {
+      "latitude": 55.75222,
+      "longitude": 37.61556
+    }
+  },
+  {
+    "name": "Canada",
+    "poplation": 14678195,
+    "capital": "Ottawa",
+    "location": {
+      "latitude": 45.2487862,
+      "longitude": -76.3606792
+    }
+  },
+  {
+    "name": "Belarus",
+    "poplation": 14678195,
+    "capital": "Minsk",
+    "location": {
+      "latitude": 53.8838069,
+      "longitude": 27.5796468
+    }
+  },
+  {
+    "name": "Norway",
+    "poplation": 14678195,
+    "capital": "Oslo",
+    "location": {
+      "latitude": 59.8937806,
+      "longitude": 10.6450354
+    }
+  },
+  {
+    "name": "Belgium",
+    "poplation": 14678195,
+    "capital": "Brussels",
+    "location": {
+      "latitude": 50.8549541,
+      "longitude": 4.3053503
+    }
+  }
+]
